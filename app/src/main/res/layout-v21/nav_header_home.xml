@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/nav_header_height"
+    android:background="@drawable/side_nav_bar"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/dimenTextViewPaddingLeft"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark"
+    android:transitionGroup="true">
+
+    <TextView
+        android:layout_width="@dimen/dimenTextViewLayoutWidth"
+        android:layout_height="@dimen/dimenTextViewLayoutHeight"
+        android:text="@string/stringTextView"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textSize="@dimen/dimenTextViewSize" />
+
+</LinearLayout>

@@ -1,0 +1,15 @@
+<resources>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="dimenTextViewSize">20dp</dimen>
+    <dimen name="dimenTextViewLayoutWidth">300dp</dimen>
+    <dimen name="dimenTextViewLayoutHeight">45dp</dimen>
+    <dimen name="dimenTextViewPaddingLeft">20dp</dimen>
+    <dimen name="dimenEditTextPadding">20dp</dimen>
+    <dimen name="dimenFloatingActionButtonLayoutWidth">60dp</dimen>
+    <dimen name="dimenFloatingActionButtonLayoutHeight">60dp</dimen>
+    <dimen name="dimenFloatingActionButtonLayoutMargin">45dp</dimen>
+    <dimen name="paddingSetting">0dp</dimen>
+    <dimen name="textSizeSetting">20dp</dimen>
+    <dimen name="paddingSwitchCompat">20dp</dimen>
+
+</resources>

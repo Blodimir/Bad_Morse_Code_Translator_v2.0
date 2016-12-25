@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4e8df5</color>
+    <color name="colorPrimaryDark">#4e8df5</color>
+    <color name="colorAccent">#4e8df5</color>
+    <color name="colorWorkspaceBackground">#eeeeee</color>
+    <color name="colorEditTextBackground">#ffffff</color>
+
+    <color name="YOUR_COLOR_HERE">#4e8df5</color>
+    <color name="YOUR_START_COLOR">#4e8df5</color>
+    <color name="YOUR_END_COLOR">#eeeeee</color>
+</resources>
